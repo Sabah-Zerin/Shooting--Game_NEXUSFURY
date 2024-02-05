@@ -13,5 +13,5 @@ git clone https://github.com/Sabah-Zerin/Nexusfury_shooting-game.git
 
 ## Development Environment
 
-- Developed using Visual Studio (or mention your preferred IDE).
+- Developed using Visual Studio .
 - Utilizes the iGraphics library for graphical rendering.
