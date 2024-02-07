@@ -5,6 +5,12 @@ https://www.youtube.com/watch?v=6DMrEgN5cE4
 
 git clone https://github.com/Sabah-Zerin/Nexusfury_shooting-game.git
 
+## Presentation
+[Nexusfury_game.pptx](https://github.com/Sabah-Zerin/Nexusfury_shooting-game/files/14195342/Nexusfury_game.pptx)
+
+## PDF
+[Nexusfury_game.pdf](https://github.com/Sabah-Zerin/Nexusfury_shooting-game/files/14195348/Nexusfury_game.pdf)
+
 ## How to Play
 
 1. Clone the repository.
